@@ -1,0 +1,10 @@
+<suite name="Main test">
+    <test name="Facebook UI Test">
+        <classes>
+            <class name="src/test/java/testCases/loginPageTest.java">
+
+            </class>
+        </classes>
+
+    </test>
+</suite>
