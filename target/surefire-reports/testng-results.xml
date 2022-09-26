@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-18T19:50:46 CDT" name="testCases.loginPageTest" finished-at="2022-09-18T19:51:00 CDT" duration-ms="13826">
+    <groups>
+    </groups>
+    <test started-at="2022-09-18T19:50:46 CDT" name="Command line test" finished-at="2022-09-18T19:51:00 CDT" duration-ms="13826">
+      <class name="testCases.loginPageTest">
+        <test-method is-config="true" signature="setUplogintest()[pri:0, instance:testCases.loginPageTest@e50a6f6]" started-at="2022-09-18T19:50:46 CDT" name="setUplogintest" finished-at="2022-09-18T19:50:58 CDT" duration-ms="11656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUplogintest -->
+        <test-method signature="testUsernameField()[pri:1, instance:testCases.loginPageTest@e50a6f6]" started-at="2022-09-18T19:50:58 CDT" name="testUsernameField" finished-at="2022-09-18T19:50:58 CDT" duration-ms="377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsernameField -->
+        <test-method signature="testPasswordField()[pri:2, instance:testCases.loginPageTest@e50a6f6]" started-at="2022-09-18T19:50:58 CDT" name="testPasswordField" finished-at="2022-09-18T19:50:58 CDT" duration-ms="245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPasswordField -->
+        <test-method signature="testSignbutton()[pri:3, instance:testCases.loginPageTest@e50a6f6]" started-at="2022-09-18T19:50:58 CDT" name="testSignbutton" finished-at="2022-09-18T19:51:00 CDT" duration-ms="1502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSignbutton -->
+      </class> <!-- testCases.loginPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- testCases.loginPageTest -->
+</testng-results>
